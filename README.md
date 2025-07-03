@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhpratap-singh&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpratap-singh" />
+  <img src="https://komarev.com/ghpvc/?username=Rp228&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh-Pratap_Singh" />
 </p>
 
 ---
@@ -27,19 +27,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhpratap-singh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpratap-singh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rp228&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rp228&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Latest Projects
-- 🛒 **E-Commerce Frontend** – built with React and Tailwind CSS
-- 🎯 **Quiz Backend App** – built with Spring Boot
-- 📄 **Job Application System** – CRUD + JWT secured API
-- 🤖 **AI Interview Agent** – built with LangChain, FastAPI, Ollama
-
----
+### 🔥 Featured Projects
+- 🛒 **E-Commerce Site (React)** – Clean UI with cart & product pages
+- 🎯 **Quiz App (Spring Boot)** – Secure backend with JWT auth
+- 📄 **Job Application System** – CRUD REST APIs with PostgreSQL
+- 🤖 **AI Interview Agent** – FastAPI + LangChain + Ollama
+- 📚 **Document QA System** – LangChain + Vector DB (Local PDF QA)
 
 ### 📫 Connect With Me
 
