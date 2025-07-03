@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pratap Singh</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h3 align="center"> Java Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rp228&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh-Pratap_Singh" />
